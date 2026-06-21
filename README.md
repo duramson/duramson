@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi, I'm Cedrik 👋
+
+I like understanding things all the way down: from the metal chip to the PCB to
+the code to the container it ends up orchestrating.
 
 <!--
 **duramson/duramson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
